@@ -1,0 +1,60 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.footer{
+    text-align: center;
+}
+
+.bulb{
+    cursor: pointer;
+    width: 20px;
+    background: transparent;
+    border-radius: 50%;
+    margin: 10px;
+}
+.container h6{
+    color: rgb(126, 124, 124);
+    margin: 7px;
+}
+.nav_dark{
+    background-color: black;
+}
+
+.icon_dark{
+    color: white !important;
+}
+.icon_dark:hover{
+    color: rgb(144, 251, 144) !important;
+}
+
+.white_text{
+    color: white !important;
+}
+.dark_back{
+    background-color: gray;
+}
+.border{
+    border: 2px solid black !important;
+}
+
+.dark_back_btn{
+    background-color: black;
+    color: white;
+}
+.toggleBtn{
+    background-color: white;
+}
+
+.imp{
+    width: 28px;
+    margin: 0 10px;
+    cursor: pointer;
+    border-radius: 50%;
+    padding: 3px 7px;
+}
+.imp:hover{
+    background-color: rgb(241, 241, 241);
+    /* background-color: rgb(252, 187, 239); */
+}

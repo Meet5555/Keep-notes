@@ -1,0 +1,15 @@
+1. when searching a note and deleting that node amd when we add a new note.. clearing the content inside the search bar  -- Done
+
+2. Able to add title -- Done
+
+3. mark Important(change background , lamp)    -- Done but not working on refresh
+
+4. dark mode  -- Done  but modify later
+
+5. sorting 
+
+6. search by name and title seperate
+
+7. able to change content of current note
+
+8. if anyone try to enter empty note..display alert
